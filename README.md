@@ -4,9 +4,9 @@
 
 This is Proof of Concept for loading, transforming and visualizing data through Power BI.
 
-## Architecture
+## Report Screenshot
 
-![serverless-etl-pipeline drawio](https://github.com/iamavnish/serverless-etl-pipeline/assets/13760927/dc4b75e2-ac85-49ca-bc1b-2a912bfcf71b)
+![image](https://github.com/user-attachments/assets/2b15d145-a7ff-46fc-9ced-457cdeb90bd6)
 
 
 ## Tech Stack
