@@ -15,7 +15,7 @@ This is Proof of Concept for loading, transforming and visualizing data through 
 
 ## Dataset
 
-Credit Card Defaults (UCI Machine Leaarning DataSet Repository). New Column added to original dataset (fake geo-location information for various US states).
+Credit Card Defaults (UCI Machine Learning DataSet Repository). New Column added to original dataset (fake geo-location information for various US states).
 
 ## Solution
 
