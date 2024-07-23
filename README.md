@@ -19,7 +19,10 @@ Credit Card Defaults (UCI Machine Leaarning DataSet Repository). New Column adde
 
 ## Solution
 
-Lambda function is triggered once a day through CloudWatch Events which extracts data for top 50 global songs on Spotify through Spotify API and stores in S3 bucket in JSON format. Another Lambda function gets triggered whenever a new file is added to S3 bucket (first S3 bucket). This second lambda function does some transformations on the raw data like extracting albums data, artists data and songs data and storing the transformed data into second S3 bucket in CSV format. Schema is inferred from CSV files through Glue Crawlers and corresponding metadata is stored in Glue Data Catalog. Then anaytics can be performed on top of CSV files in second S3 bucket using Athena service. Finally, a dashboard is built using QuickSight to visualize data such as "Top 5 Global Artists on Spotify" using Athena as Data Source.
+Firstly data is loaded into Power BI using file Data.csv. Then various transformations are applied onto original dataset.Here is the list:
+
+![image](https://github.com/user-attachments/assets/7488ee0b-b822-41e9-91d0-0b241d49b2f1)
+
 
 
 
