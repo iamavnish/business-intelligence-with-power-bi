@@ -1,17 +1,16 @@
-# Visualizing Credit Card Defaults using Power BI
+# Business Intelligence using PowerBI
 
 ## Overview 
 
-This is Proof of Concept for loading, transforming and visualizing data through Power BI.
-
-## PoC Compexity Level
-
-Simple
+This is Proof of Concept for loading, transforming and visualizing data using Power BI.
 
 ## Use Case / Desired Report
 
 ![image](https://github.com/user-attachments/assets/2b15d145-a7ff-46fc-9ced-457cdeb90bd6)
 
+## PoC Compexity Level
+
+Simple
 
 ## Tech Stack
 
