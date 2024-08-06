@@ -4,9 +4,9 @@
 
 This is Proof of Concept for loading, transforming and visualizing data using Power BI.
 
-## Use Case / Desired Report
+## Use Case 
 
-![image](https://github.com/user-attachments/assets/2b15d145-a7ff-46fc-9ced-457cdeb90bd6)
+Analyze data on Credit Card Defaults.
 
 ## PoC Compexity Level
 
@@ -28,5 +28,8 @@ Firstly data is loaded into Power BI using file Data.csv. Then various transform
 
 Then various visuals are created. In the first visual, fact is count of credit card defaults and dimensions are education level and gender. In the second visual, fact is count of credit card defaults and dimensions are age and gender. In the third visual, count of credit card defaults are being showed for each of the US states. This report is interactive which means if Texas state is being clicked in third visual then data for only Texas state is being showed in all other visuals. In the fourth visual, fact is count of credit card defaults and dimension is gender. In the fifth visual, fact is count of credit card defaults and dimensions are marital status and gender and likewise.
 
+## Report
+
+![image](https://github.com/user-attachments/assets/2b15d145-a7ff-46fc-9ced-457cdeb90bd6)
 
 
