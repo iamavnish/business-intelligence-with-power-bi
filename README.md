@@ -8,7 +8,7 @@ This is Proof of Concept for loading, transforming and visualizing data through 
 
 Simple
 
-## Report Screenshot
+## Use Case / Desired Report
 
 ![image](https://github.com/user-attachments/assets/2b15d145-a7ff-46fc-9ced-457cdeb90bd6)
 
